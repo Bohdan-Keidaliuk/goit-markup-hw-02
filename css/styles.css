@@ -11,6 +11,7 @@ body{
 .title-button{
     color: #ffffff;
     background-color: #4D5AE5;
+    cursor: pointer;
 }
 .title-button:hover{
     background-color: #404BBF;
@@ -24,4 +25,8 @@ a:hover{
 }
 ul{
     list-style-type: none;
+}
+footer{
+    color: #F4F4FD;
+    background-color: #2E2F42;
 }
