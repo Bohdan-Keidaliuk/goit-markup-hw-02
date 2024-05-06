@@ -4,7 +4,7 @@ body{
     background-color: #ffffff;
 }
 .logo{
-    font-family: "Releway" sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -21,7 +21,7 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.adress , ul{
+.address{
     font-style: normal;
 }
 .adress-mail{
@@ -44,9 +44,10 @@ body{
     left: 0.02em;
     color: #ffffff;
         text-align: center;
+        letter-spacing: 0.02em;
 }
 .title-button{
-    font-family: "Roboto" sans-serif;
+    font-family:"Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -59,7 +60,7 @@ body{
     background-color: #404BBF;
 }
 .title-button:focus{
-    color: #404BBF;
+    background-color: #404BBF;
 }
 /* section 2 */
 .section-two{
