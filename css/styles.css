@@ -1,0 +1,27 @@
+body{
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+    background-color: #ffffff;
+}
+.title , h1{
+    background-color: #2E2F42;
+    color: #ffffff;
+    text-align: center;
+}
+.title-button{
+    color: #ffffff;
+    background-color: #4D5AE5;
+}
+.title-button:hover{
+    background-color: #404BBF;
+}
+a{
+    color: #2E2F42;
+    text-decoration: none;
+}
+a:hover{
+    color: #404BBF;
+}
+ul{
+    list-style-type: none;
+}
